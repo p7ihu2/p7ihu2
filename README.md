@@ -53,7 +53,6 @@ I am highly passionate about exploring digital forensic environments, finding ar
 <details>
 <summary><b>▶️ Click to Expand Repositories</b></summary>
 <br />
-<i>Projects will appear here automatically as public repositories are developed! Keep an eye out for automated network tools, secure code wrappers, and automation scripts.</i>
 </details>
 <p align="center">
 <i>"Consistency over intensity." Let's build, secure, and refine.</i>
