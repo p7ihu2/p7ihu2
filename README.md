@@ -1,6 +1,6 @@
 # <p align="center">𝒮𝓊𝓇𝓎𝒶 ℳℴ𝓃𝒶𝓁𝒾𝓈𝒽𝒶 𝒩𝒶𝓎𝒶𝓀</p>
 <p align="center">
-  <a href="https://linkedin.com/in/surya-monalisha-nayak" target="_blank">
+  <a href="https://www.linkedin.com/in/surya-monalisha-nayak-3381482b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@xCy_luv027" target="_blank">
